@@ -1,4 +1,5 @@
 # Kaggle specific ignores
+*-venv/
 */data/*.zip
 */data/*.csv
 
